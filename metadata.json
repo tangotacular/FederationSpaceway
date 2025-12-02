@@ -1,0 +1,5 @@
+{
+  "name": "Federation Spaceway Codex",
+  "description": "An interactive timeline and lore explorer for the Federation Spaceway history, featuring a Gemini-powered AI historian.",
+  "requestFramePermissions": []
+}
